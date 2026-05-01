@@ -1,5 +1,5 @@
 # HummanCommit
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 Hi, I'm Nico  👋🏼
 
 Let's get the obvious out of the way: I'm not a developer. I don't write production code, I can't review your PR, and I'm not going to open a meaningful issue on your repo. What I am is someone who has spent over a decade trying to understand what's broken about the way technical talent gets found, evaluated, and placed — and who believes the best way to do that is to show up where the talent actually "lives". So here I am.
